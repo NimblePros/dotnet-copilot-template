@@ -10,6 +10,7 @@ This is a placeholder. Review the README.md and /src files for details about the
 - **Language Version**: Latest C# features enabled
 - **Nullable Reference Types**: Enabled project-wide
 - **Implicit Usings**: Enabled
+- **Treat Warnings as Errors**: Enabled globally
 
 ## Project Structure
 
